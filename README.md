@@ -7,3 +7,6 @@
 
 # ajout du fichier script.ps1
 # ajout du fichier sharepoint.cephinet.info.dll
+
+
+# le fichier ps1 attend un fichier xml en paramètre
